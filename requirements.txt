@@ -1,2 +1,3 @@
 OSMPythonTools
 tqdm
+shapely 
