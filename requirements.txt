@@ -1,3 +1,4 @@
 OSMPythonTools
 tqdm
 shapely 
+numpy
